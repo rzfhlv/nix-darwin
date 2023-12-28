@@ -29,6 +29,8 @@
 
     neofetch
     neovim
+
+    postgresql
   ];
   programs.fish.enable = true;
 
