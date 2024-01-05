@@ -31,6 +31,9 @@
     neovim
 
     postgresql
+    elixir_1_15
+    python312
+    protobuf
   ];
   programs.fish.enable = true;
 
