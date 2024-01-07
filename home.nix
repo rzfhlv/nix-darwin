@@ -32,7 +32,8 @@
 
     postgresql
     elixir_1_15
-    python312
+    python311
+    python311Packages.pip
     protobuf
   ];
   programs.fish.enable = true;
