@@ -36,6 +36,7 @@
     python311Packages.pip
     protobuf
     ripgrep
+    fd
   ];
   programs.fish.enable = true;
 
